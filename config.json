@@ -1,0 +1,22 @@
+{
+    "min_support": 0.2,
+    "min_confidence": 0.6,
+    "random_seed": 42,
+    "holdout_ratio": 0.2,
+    "rare_item_threshold": 0.05,
+    "sensitivity_analysis": {
+        "min_support_values": [0.1, 0.2, 0.3],
+        "min_confidence_values": [0.5, 0.6, 0.7]
+    },
+    "visualization": {
+        "lattice": {
+            "node_size": 1000,
+            "font_size": 10,
+            "edge_width": 1.5
+        },
+        "rule_graph": {
+            "min_lift": 1.5,
+            "top_rules": 20
+        }
+    }
+}
