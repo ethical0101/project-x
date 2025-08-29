@@ -185,7 +185,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **Your Name** - *Initial work* - [ethical0101](https://github.com/ethical0101)
 
 ## Acknowledgments
 
