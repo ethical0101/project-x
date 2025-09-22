@@ -1,6 +1,6 @@
 {
   "project_title": "Frequent Pattern Mining & Concept Lattice Analysis",
-  "execution_timestamp": "2025-09-22 07:26:50",
+  "execution_timestamp": "2025-09-22 18:55:14",
   "data_summary": {
     "total_transactions": 20,
     "unique_items": 25,
@@ -11,12 +11,12 @@
     "apriori": {
       "itemsets": 5,
       "rules": 0,
-      "execution_time": 0.002516508102416992
+      "execution_time": 0.0015687942504882812
     },
     "fpgrowth": {
       "itemsets": 5,
       "rules": 0,
-      "execution_time": 0.002178192138671875
+      "execution_time": 0.0013530254364013672
     }
   },
   "concept_analysis": {

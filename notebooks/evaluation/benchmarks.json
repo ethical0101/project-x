@@ -1,23 +1,23 @@
 {
   "apriori": {
-    "algorithm_time": 0.0024712085723876953,
-    "rules_generation_time": 0.0014164447784423828,
-    "total_time": 0.003887653350830078,
-    "itemset_count": 26,
-    "rule_count": 29
+    "algorithm_time": 0.0014009475708007812,
+    "rules_generation_time": 0.0005023479461669922,
+    "total_time": 0.0019032955169677734,
+    "itemset_count": 5,
+    "rule_count": 0
   },
   "fpgrowth": {
-    "algorithm_time": 0.0016810894012451172,
-    "rules_generation_time": 0.0018475055694580078,
-    "total_time": 0.003528594970703125,
-    "itemset_count": 26,
-    "rule_count": 29
+    "algorithm_time": 0.0011484622955322266,
+    "rules_generation_time": 0.0004858970642089844,
+    "total_time": 0.001634359359741211,
+    "itemset_count": 5,
+    "rule_count": 0
   },
   "closed": {
     "algorithm_time": "N/A",
     "rules_generation_time": "N/A",
     "total_time": "N/A",
-    "itemset_count": 6,
-    "rule_count": 26
+    "itemset_count": 0,
+    "rule_count": 0
   }
 }

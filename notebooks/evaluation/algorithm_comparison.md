@@ -4,41 +4,41 @@
 
 | Metric | Apriori | Fpgrowth | Closed |
 | --- | --- | --- | --- |
-| Itemset Mining Time (s) | 0.002471 | 0.001681 | N/A |
-| Rule Generation Time (s) | 0.001416 | 0.001848 | N/A |
-| Total Time (s) | 0.003888 | 0.003529 | N/A |
+| Itemset Mining Time (s) | 0.001401 | 0.001148 | N/A |
+| Rule Generation Time (s) | 0.000502 | 0.000486 | N/A |
+| Total Time (s) | 0.001903 | 0.001634 | N/A |
 
 ## Output Size
 
 | Metric | Apriori | Fpgrowth | Closed |
 | --- | --- | --- | --- |
-| Number of Itemsets | 26 | 26 | 6.00 |
-| Number of Rules | 29 | 29 | 26 |
+| Number of Itemsets | 5.00 | 5.00 | 0.000000 |
+| Number of Rules | 6.00 | 6.00 | N/A |
 
 ## Rule Quality
 
 | Metric | Apriori | Fpgrowth | Closed |
 | --- | --- | --- | --- |
-| Average Support | 0.2138 | 0.2138 | 0.2000 |
-| Average Confidence | 0.9885 | 0.9885 | 1.00 |
-| Average Lift | 3.48 | 3.48 | 5.00 |
-| Ratio of Rules with Lift > 1 | 1.00 | 1.00 | 1.00 |
-| Ratio of Rules with Lift > 3 | 0.4828 | 0.4828 | 1.00 |
+| Average Support | 0.1500 | 0.1500 | N/A |
+| Average Confidence | 0.4583 | 0.4583 | N/A |
+| Average Lift | 1.23 | 1.23 | N/A |
+| Ratio of Rules with Lift > 1 | 0.6667 | 0.6667 | N/A |
+| Ratio of Rules with Lift > 3 | 0.000000 | 0.000000 | N/A |
 
 ## Rule Structure
 
 | Metric | Apriori | Fpgrowth | Closed |
 | --- | --- | --- | --- |
-| Average Antecedent Size | N/A | N/A | 1.46 |
-| Average Consequent Size | N/A | N/A | 1.46 |
-| Average Rule Size | N/A | N/A | 2.92 |
+| Average Antecedent Size | N/A | N/A | N/A |
+| Average Consequent Size | N/A | N/A | N/A |
+| Average Rule Size | N/A | N/A | N/A |
 
 ## Rule Set Properties
 
 | Metric | Apriori | Fpgrowth | Closed |
 | --- | --- | --- | --- |
-| Redundancy Ratio | 0.5862 | 0.5862 | 0.4615 |
-| Rule Diversity | 0.4970 | 0.4970 | 0.6905 |
+| Redundancy Ratio | 0.000000 | 0.000000 | N/A |
+| Rule Diversity | 0.5333 | 0.5333 | N/A |
 
 ## Strengths and Weaknesses
 

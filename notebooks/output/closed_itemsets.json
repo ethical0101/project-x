@@ -1,44 +1,5 @@
 [
   {
-    "itemset": [
-      "apple",
-      "bread",
-      "milk"
-    ],
-    "support": 0.2
-  },
-  {
-    "itemset": [
-      "cheese",
-      "eggs",
-      "milk"
-    ],
-    "support": 0.2
-  },
-  {
-    "itemset": [
-      "bread",
-      "butter",
-      "milk"
-    ],
-    "support": 0.2
-  },
-  {
-    "itemset": [
-      "apple",
-      "banana",
-      "orange"
-    ],
-    "support": 0.2
-  },
-  {
-    "itemset": [
-      "oil",
-      "rice"
-    ],
-    "support": 0.2
-  },
-  {
     "itemset": [],
     "support": 1.0
   }
