@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Your Gemini API key
-GEMINI_API_KEY = "AIzaSyDka3K_z-bY58Bh_IX9wYWnd1jSZYGobR4"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 def generate_with_gemini(prompt):
