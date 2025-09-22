@@ -1,0 +1,167 @@
+[
+  {
+    "transaction_id": 1,
+    "items": [
+      "apple",
+      "milk",
+      "bread"
+    ]
+  },
+  {
+    "transaction_id": 2,
+    "items": [
+      "rice",
+      "oil",
+      "beans"
+    ]
+  },
+  {
+    "transaction_id": 3,
+    "items": [
+      "milk",
+      "eggs",
+      "cheese",
+      "yogurt"
+    ]
+  },
+  {
+    "transaction_id": 4,
+    "items": [
+      "bread",
+      "butter",
+      "milk"
+    ]
+  },
+  {
+    "transaction_id": 5,
+    "items": [
+      "apple",
+      "banana",
+      "orange",
+      "grapes"
+    ]
+  },
+  {
+    "transaction_id": 6,
+    "items": [
+      "rice",
+      "chicken",
+      "vegetables"
+    ]
+  },
+  {
+    "transaction_id": 7,
+    "items": [
+      "milk",
+      "coffee",
+      "tea"
+    ]
+  },
+  {
+    "transaction_id": 8,
+    "items": [
+      "eggs",
+      "bacon",
+      "bread"
+    ]
+  },
+  {
+    "transaction_id": 9,
+    "items": [
+      "bread",
+      "cheese",
+      "tomato",
+      "milk"
+    ]
+  },
+  {
+    "transaction_id": 10,
+    "items": [
+      "yogurt",
+      "berries",
+      "banana"
+    ]
+  },
+  {
+    "transaction_id": 11,
+    "items": [
+      "milk",
+      "cereal",
+      "banana"
+    ]
+  },
+  {
+    "transaction_id": 12,
+    "items": [
+      "rice",
+      "beans",
+      "oil"
+    ]
+  },
+  {
+    "transaction_id": 13,
+    "items": [
+      "coffee",
+      "sugar",
+      "milk"
+    ]
+  },
+  {
+    "transaction_id": 14,
+    "items": [
+      "bread",
+      "eggs",
+      "bacon"
+    ]
+  },
+  {
+    "transaction_id": 15,
+    "items": [
+      "chicken",
+      "vegetables",
+      "rice"
+    ]
+  },
+  {
+    "transaction_id": 16,
+    "items": [
+      "apple",
+      "orange",
+      "banana",
+      "milk"
+    ]
+  },
+  {
+    "transaction_id": 17,
+    "items": [
+      "cheese",
+      "crackers",
+      "wine"
+    ]
+  },
+  {
+    "transaction_id": 18,
+    "items": [
+      "milk",
+      "butter",
+      "yogurt",
+      "cheese"
+    ]
+  },
+  {
+    "transaction_id": 19,
+    "items": [
+      "cereal",
+      "milk",
+      "banana"
+    ]
+  },
+  {
+    "transaction_id": 20,
+    "items": [
+      "bread",
+      "jam",
+      "butter"
+    ]
+  }
+]

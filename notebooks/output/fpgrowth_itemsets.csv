@@ -1,0 +1,27 @@
+support,itemsets
+0.6,['milk']
+0.4,['bread']
+0.4,['apple']
+0.2,['rice']
+0.2,['oil']
+0.2,['cheese']
+0.2,['eggs']
+0.2,['butter']
+0.2,['orange']
+0.2,['banana']
+0.4,"['milk', 'bread']"
+0.2,"['apple', 'bread']"
+0.2,"['apple', 'milk']"
+0.2,"['apple', 'milk', 'bread']"
+0.2,"['rice', 'oil']"
+0.2,"['milk', 'cheese']"
+0.2,"['eggs', 'cheese']"
+0.2,"['eggs', 'milk']"
+0.2,"['eggs', 'milk', 'cheese']"
+0.2,"['butter', 'bread']"
+0.2,"['milk', 'butter']"
+0.2,"['milk', 'butter', 'bread']"
+0.2,"['apple', 'orange']"
+0.2,"['orange', 'banana']"
+0.2,"['apple', 'banana']"
+0.2,"['apple', 'orange', 'banana']"

@@ -1,0 +1,62 @@
+[
+  {
+    "extent": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "intent": []
+  },
+  {
+    "extent": [
+      4
+    ],
+    "intent": [
+      "banana"
+    ]
+  },
+  {
+    "extent": [
+      1
+    ],
+    "intent": [
+      "bread"
+    ]
+  },
+  {
+    "extent": [
+      3
+    ],
+    "intent": [
+      "cheese"
+    ]
+  },
+  {
+    "extent": [
+      0
+    ],
+    "intent": [
+      "milk"
+    ]
+  },
+  {
+    "extent": [
+      2
+    ],
+    "intent": [
+      "rice"
+    ]
+  },
+  {
+    "extent": [],
+    "intent": [
+      "banana",
+      "bread",
+      "cheese",
+      "milk",
+      "rice"
+    ]
+  }
+]

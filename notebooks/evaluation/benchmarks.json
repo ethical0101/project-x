@@ -1,0 +1,23 @@
+{
+  "apriori": {
+    "algorithm_time": 0.0024712085723876953,
+    "rules_generation_time": 0.0014164447784423828,
+    "total_time": 0.003887653350830078,
+    "itemset_count": 26,
+    "rule_count": 29
+  },
+  "fpgrowth": {
+    "algorithm_time": 0.0016810894012451172,
+    "rules_generation_time": 0.0018475055694580078,
+    "total_time": 0.003528594970703125,
+    "itemset_count": 26,
+    "rule_count": 29
+  },
+  "closed": {
+    "algorithm_time": "N/A",
+    "rules_generation_time": "N/A",
+    "total_time": "N/A",
+    "itemset_count": 6,
+    "rule_count": 26
+  }
+}

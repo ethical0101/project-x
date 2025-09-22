@@ -1,0 +1,41 @@
+[
+  {
+    "transaction_id": 1,
+    "items": [
+      "milk",
+      "apple",
+      "bread"
+    ]
+  },
+  {
+    "transaction_id": 2,
+    "items": [
+      "oil",
+      "rice"
+    ]
+  },
+  {
+    "transaction_id": 3,
+    "items": [
+      "cheese",
+      "milk",
+      "eggs"
+    ]
+  },
+  {
+    "transaction_id": 4,
+    "items": [
+      "bread",
+      "butter",
+      "milk"
+    ]
+  },
+  {
+    "transaction_id": 5,
+    "items": [
+      "orange",
+      "banana",
+      "apple"
+    ]
+  }
+]

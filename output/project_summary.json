@@ -1,0 +1,47 @@
+{
+  "project_title": "Frequent Pattern Mining & Concept Lattice Analysis",
+  "execution_timestamp": "2025-09-22 07:26:50",
+  "data_summary": {
+    "total_transactions": 20,
+    "unique_items": 25,
+    "rare_items_filtered": 0,
+    "sparsity": 0.87
+  },
+  "mining_results": {
+    "apriori": {
+      "itemsets": 5,
+      "rules": 0,
+      "execution_time": 0.002516508102416992
+    },
+    "fpgrowth": {
+      "itemsets": 5,
+      "rules": 0,
+      "execution_time": 0.002178192138671875
+    }
+  },
+  "concept_analysis": {
+    "formal_concepts": 6,
+    "context_size": "5x5"
+  },
+  "configuration": {
+    "min_support": 0.2,
+    "min_confidence": 0.6,
+    "min_lift": 1.0
+  },
+  "output_files": [
+    "output/cleaned_transactions.json",
+    "output/transaction_lists.json",
+    "output/apriori_itemsets.csv",
+    "output/fpgrowth_itemsets.csv",
+    "output/apriori_rules.csv",
+    "output/fpgrowth_rules.csv",
+    "output/formal_context.csv",
+    "output/formal_concepts.json"
+  ],
+  "visualizations": [
+    "figures/support_distribution.png",
+    "figures/rules_scatter.png",
+    "figures/item_frequency.png",
+    "figures/algorithm_comparison.png"
+  ]
+}

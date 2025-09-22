@@ -1,0 +1,312 @@
+[
+  {
+    "antecedent": [
+      "apple"
+    ],
+    "consequent": [
+      "bread",
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "bread"
+    ],
+    "consequent": [
+      "apple",
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "milk"
+    ],
+    "consequent": [
+      "bread",
+      "apple"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "bread",
+      "apple"
+    ],
+    "consequent": [
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "apple",
+      "milk"
+    ],
+    "consequent": [
+      "bread"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "bread",
+      "milk"
+    ],
+    "consequent": [
+      "apple"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "cheese"
+    ],
+    "consequent": [
+      "eggs",
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "eggs"
+    ],
+    "consequent": [
+      "milk",
+      "cheese"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "milk"
+    ],
+    "consequent": [
+      "eggs",
+      "cheese"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "eggs",
+      "cheese"
+    ],
+    "consequent": [
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "milk",
+      "cheese"
+    ],
+    "consequent": [
+      "eggs"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "eggs",
+      "milk"
+    ],
+    "consequent": [
+      "cheese"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "butter"
+    ],
+    "consequent": [
+      "bread",
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "bread"
+    ],
+    "consequent": [
+      "butter",
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "milk"
+    ],
+    "consequent": [
+      "butter",
+      "bread"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "butter",
+      "bread"
+    ],
+    "consequent": [
+      "milk"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "butter",
+      "milk"
+    ],
+    "consequent": [
+      "bread"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "bread",
+      "milk"
+    ],
+    "consequent": [
+      "butter"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "banana"
+    ],
+    "consequent": [
+      "apple",
+      "orange"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "apple"
+    ],
+    "consequent": [
+      "banana",
+      "orange"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "orange"
+    ],
+    "consequent": [
+      "banana",
+      "apple"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "banana",
+      "apple"
+    ],
+    "consequent": [
+      "orange"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "banana",
+      "orange"
+    ],
+    "consequent": [
+      "apple"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "apple",
+      "orange"
+    ],
+    "consequent": [
+      "banana"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "rice"
+    ],
+    "consequent": [
+      "oil"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  },
+  {
+    "antecedent": [
+      "oil"
+    ],
+    "consequent": [
+      "rice"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 5.0
+  }
+]

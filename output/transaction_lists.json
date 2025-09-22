@@ -1,22 +1,107 @@
 [
-  ["apple", "milk", "bread"],
-  ["rice", "oil"],
-  ["milk", "eggs", "cheese"],
-  ["bread", "butter", "milk"],
-  ["apple", "banana", "orange"],
-  ["eggs", "flour", "sugar"],
-  ["coffee", "milk", "sugar"],
-  ["bread", "jam", "apple"],
-  ["tea", "sugar", "cream"],
-  ["pasta", "sauce", "cheese"],
-  ["chicken", "rice", "vegetables"],
-  ["bread", "cheese", "ham"],
-  ["milk", "cereal", "sugar"],
-  ["apple", "orange", "banana", "grapes"],
-  ["pasta", "tomato", "cheese", "olive oil"],
-  ["tea", "coffee"],
-  ["bread", "butter", "jam", "milk"],
-  ["eggs", "bacon", "bread", "juice"],
-  ["chicken", "potatoes", "vegetables", "salt"],
-  ["fish", "lemon", "rice", "herbs"]
+  [
+    "apple",
+    "milk",
+    "bread"
+  ],
+  [
+    "rice",
+    "oil",
+    "beans"
+  ],
+  [
+    "milk",
+    "eggs",
+    "cheese",
+    "yogurt"
+  ],
+  [
+    "bread",
+    "butter",
+    "milk"
+  ],
+  [
+    "apple",
+    "banana",
+    "orange",
+    "grapes"
+  ],
+  [
+    "rice",
+    "chicken",
+    "vegetables"
+  ],
+  [
+    "milk",
+    "coffee",
+    "tea"
+  ],
+  [
+    "eggs",
+    "bacon",
+    "bread"
+  ],
+  [
+    "bread",
+    "cheese",
+    "tomato",
+    "milk"
+  ],
+  [
+    "yogurt",
+    "berries",
+    "banana"
+  ],
+  [
+    "milk",
+    "cereal",
+    "banana"
+  ],
+  [
+    "rice",
+    "beans",
+    "oil"
+  ],
+  [
+    "coffee",
+    "sugar",
+    "milk"
+  ],
+  [
+    "bread",
+    "eggs",
+    "bacon"
+  ],
+  [
+    "chicken",
+    "vegetables",
+    "rice"
+  ],
+  [
+    "apple",
+    "orange",
+    "banana",
+    "milk"
+  ],
+  [
+    "cheese",
+    "crackers",
+    "wine"
+  ],
+  [
+    "milk",
+    "butter",
+    "yogurt",
+    "cheese"
+  ],
+  [
+    "cereal",
+    "milk",
+    "banana"
+  ],
+  [
+    "bread",
+    "jam",
+    "butter"
+  ]
 ]
